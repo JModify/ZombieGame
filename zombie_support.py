@@ -1,8 +1,5 @@
 """
-Support code for the End of Dayz game.
-Assignment 2
-Semester 1, 2021
-CSSE1001/CSSE7030
+Support code for ZombieGame.
 """
 
 import random
