@@ -1,9 +1,4 @@
 """
-End of Dayz
-Assignment 2
-Semester 1, 2021
-CSSE1001/CSSE7030
-
 A text-based zombie survival game wherein the player has to reach
 the hospital whilst evading zombies.
 """
@@ -11,11 +6,7 @@ the hospital whilst evading zombies.
 from typing import Tuple, Optional, Dict, List
 from collections import defaultdict
 
-from a2_support import *
-
-# Replace these <strings> with your name, student number and email address.
-__author__ = "Joshua Lavagna-Slater, 46986205"
-__email__ = "s4698620@student.uq.edu.au"
+from zombie_support import *
 
 
 # Implement your classes here.
