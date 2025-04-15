@@ -285,4 +285,4 @@ def load_map(filename: str) -> Tuple[EntityLocations, int]:
 
 
 if __name__ == "__main__":
-    print("This file is not intended to be run on its own. Run a2.py instead.")
+    print("This file is not intended to be run on its own. Run zombie.py instead.")
